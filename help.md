@@ -10,7 +10,7 @@
 > this is a import
 [unixHot](http://www.unixhot.com)
 
-![oldboy](http://cdn.zyops.com/wp-content/uploads/2015/12/wpid-86e96f30d338c630a08ebee61224643c_7db49d83-e464-4825-9215-7faa5d7e8678.jpg)
+![oldboy](http://img1.gtimg.com/news/pics/hv1/88/24/2019/131291683.jpg)
 
 
      while true:
